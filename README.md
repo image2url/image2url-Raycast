@@ -7,3 +7,10 @@ Raycast 插件 (macOS):
 功能： 输入命令 "Upload Image"，选择文件或读取剪贴板，直接返回 URL 到剪贴板。
 
 优势： 开发门槛低（React/TS），容易在社区获得传播。
+Alfred Workflow:
+
+场景： 老牌 Mac 效率工具，逻辑同 Raycast。
+
+uTools 插件 (Windows/Mac/Linux):
+
+场景： 国内用户非常多的效率工具，适合拓展中文市场。
